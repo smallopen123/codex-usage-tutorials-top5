@@ -1,0 +1,75 @@
+{
+  "updated": "2026-07-08",
+  "search_tool": "GitHub CLI",
+  "queries": [
+    "codex tutorial",
+    "codex guide",
+    "openai codex"
+  ],
+  "selection_rules": {
+    "ranking": "stargazersCount descending",
+    "included": [
+      "OpenAI Codex usage tutorials",
+      "Codex CLI guides",
+      "Codex Desktop guides",
+      "Codex workflow manuals",
+      "curated learning/resource lists"
+    ],
+    "excluded": [
+      "repositories that only mention Codex incidentally",
+      "model projects",
+      "account managers",
+      "status-bar utilities",
+      "integration tools without tutorial focus",
+      "old or unrelated CodeX course material"
+    ]
+  },
+  "top5": [
+    {
+      "rank": 1,
+      "fullName": "freestylefly/CodexGuide",
+      "description": "CodexGuide: practical Codex guide for beginners, creators, developers, and teams.",
+      "language": "PowerShell",
+      "stars": 2484,
+      "updatedAt": "2026-07-08T02:14:21Z",
+      "url": "https://github.com/freestylefly/CodexGuide"
+    },
+    {
+      "rank": 2,
+      "fullName": "xianyu110/gpt-codex",
+      "description": "Complete OpenAI Codex tutorial site for Chinese developers.",
+      "language": "HTML",
+      "stars": 894,
+      "updatedAt": "2026-07-08T04:14:00Z",
+      "url": "https://github.com/xianyu110/gpt-codex"
+    },
+    {
+      "rank": 3,
+      "fullName": "alchaincyf/codex-orange-book",
+      "description": "OpenAI Codex: The Complete Guide.",
+      "language": "HTML",
+      "stars": 558,
+      "updatedAt": "2026-07-08T01:40:10Z",
+      "url": "https://github.com/alchaincyf/codex-orange-book"
+    },
+    {
+      "rank": 4,
+      "fullName": "RoggeOhta/awesome-codex-cli",
+      "description": "Curated list of tools, skills, subagents, and plugins for OpenAI Codex CLI.",
+      "language": null,
+      "stars": 389,
+      "updatedAt": "2026-07-08T04:46:26Z",
+      "url": "https://github.com/RoggeOhta/awesome-codex-cli"
+    },
+    {
+      "rank": 5,
+      "fullName": "xianyu110/awesome-codex-tutorial",
+      "description": "Chinese Codex tutorial collection.",
+      "language": "HTML",
+      "stars": 42,
+      "updatedAt": "2026-07-03T14:19:31Z",
+      "url": "https://github.com/xianyu110/awesome-codex-tutorial"
+    }
+  ]
+}
+
